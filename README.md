@@ -17,7 +17,9 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="AI Coding" width="320" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<div align="center">
+  <img alt="AI Coding" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+</div>
 
 ```python
 class NoorFatima:
