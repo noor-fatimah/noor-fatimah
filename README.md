@@ -21,25 +21,7 @@
   <img alt="AI Coding" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 </div>
 
-```python
-class NoorFatima:
-    def __init__(self):
-        self.name        = "Noor Fatima"
-        self.location    = "Islamabad, Pakistan 🇵🇰"
-        self.education   = "BS Computer Science @ STMU"
-        self.gpa_hssc    = "93%"
-        self.role        = "CS Innovators Club President 👑"
-        self.focus       = ["AI/ML", "Python Dev", "Data Quality"]
-        self.languages   = ["Python 🐍", "Java ☕", "SQL 🗄"]
-        self.award       = "🏆 Best Project of the Year 2024"
-        self.goal        = "Become a QA Engineer specializing in AI reliability & model validation 🚀"
 
-    def current_status(self):
-        return "Learning · Building · Leading 🩵"
-
-me = NoorFatima()
-print(me.current_status())
-```
 
 - 🎓 **CS Undergraduate** at Shifa Tameer-e-Millat University *(2023 – Present)*
 - 👑 **President** of CS Innovators Club — leading 35+ members
