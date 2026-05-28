@@ -1,14 +1,15 @@
 <div align="center">
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2626,40:0f3d3d,100:1a5c5c&height=210&section=header&text=Noor%20Fatima&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Specializing%20in%20AI%20/%20ML%20%7C%20CS%20Student%20%7C%20Python%20Developer&descAlignY=56&descSize=19&descColor=b0c4c4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2626,40:0f3d3d,100:1a5c5c&height=210&section=header&text=Noor%20Fatima&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Marketing%20Consultant%20%7C%20AI%20%2F%20ML%20Specialist%20%7C%20CS%20Student%20%7C%20Python%20Developer&descAlignY=56&descSize=19&descColor=b0c4c4"/>
+
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=55&lines=🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+Developer+%7C+OOP+%7C+DSA;🎓+CS+Undergraduate+%40+STMU;🏆+Best+Project+of+the+Year+2024;👑+President+%7C+CS+Innovators+Club;🔬+Building+Reliable+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=760&height=55&lines=🤖+AI+Marketing+Consultant+%26+Strategist;📊+Data-Driven+Marketing+%7C+AI-Powered+Campaigns;🎓+CS+Undergraduate+%40+STMU;🏆+Best+Project+of+the+Year+2024;👑+President+%7C+CS+Innovators+Club;🚀+Bridging+Artificial+Intelligence+%26+Marketing" alt="Typing SVG" />
 
 <!-- Profile Views & Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=noor-fatimah&label=Profile+Views&color=0f3d3d&style=for-the-badge&logo=eye" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/noor-fatimah?label=Followers&style=for-the-badge&color=1a5c5c&logo=github" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2DD4BF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Marketing%20Consulting-2DD4BF?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 </div>
@@ -21,16 +22,41 @@
   <img alt="AI Coding" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 </div>
 
-
-
 - 🎓 **CS Undergraduate** at Shifa Tameer-e-Millat University *(2023 – Present)*
 - 👑 **President** of CS Innovators Club — leading 35+ members
 - 🏆 Won **Best Project of the Year 2024** at STMU
-- 🤖 Passionate about **AI, Machine Learning & Quality Assurance**
-- 🔬 Exploring **Model Evaluation, Data Preprocessing & ML Pipelines**
-- 🌱 Currently deepening expertise in **Advanced AI & ML Frameworks**
-- 💡 Advocate for **tech education, mentorship & leadership**
+- 🤖 Passionate about **AI Marketing, Machine Learning & Business Strategy**
+- 📊 Exploring **AI-Powered Marketing Automation, Customer Analytics & Growth Hacking**
+- 🌱 Currently deepening expertise in **AI Marketing Tools, Prompt Engineering & Data Analytics**
+- 💡 Advocate for **tech education, digital transformation & AI-driven marketing**
 - 📬 Reach me at: **fatimamunsaf786@gmail.com**
+
+---
+
+## 🎯 What I Do as an AI Marketing Consultant
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🤖  AI-Powered Campaign Strategy                                    ║
+║      └─ Designing intelligent marketing funnels using AI tools       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  📊  Customer Behaviour Analytics                                    ║
+║      └─ Leveraging ML models to decode audience insights             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  ✍️   AI Content & Copywriting Strategy                              ║
+║      └─ Prompt engineering for high-converting marketing content     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🚀  Marketing Automation & Personalisation                          ║
+║      └─ Deploying AI tools for scalable, personalised outreach       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  📈  Data-Driven Growth Consulting                                   ║
+║      └─ Turning raw data into actionable marketing decisions         ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -41,12 +67,19 @@
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 
-### 🤖 AI / Data Science
+### 🤖 AI / Data Science & Marketing Analytics
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
 <br>
 <img src="https://img.shields.io/badge/NumPy-0f3d3d?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-1a5c5c?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-2DD4BF?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+### 📣 AI Marketing Tools
+<img src="https://img.shields.io/badge/ChatGPT%20%2F%20Claude-Prompt%20Engineering-0f3d3d?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Analytics-1a5c5c?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva%20AI-2DD4BF?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/HubSpot-0f3d3d?style=for-the-badge&logo=hubspot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion%20AI-1a5c5c?style=for-the-badge&logo=notion&logoColor=white"/>
 
 ### 🛠 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql&theme=dark" />
@@ -68,16 +101,16 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎲 Python Random Number Generator
-> *Tkinter GUI Application*
+### 📊 AI Marketing Analytics Dashboard
+> *Python + Data Visualisation*
 
-- 🖥 Built a full GUI app with **Python + Tkinter**
-- ✅ Input validation & dynamic range generation
-- 🏗 Applied **OOP principles** for modular architecture
-- 🎨 Clean, responsive interface design
+- 📈 Built a data pipeline to track **campaign KPIs** automatically
+- 🤖 Integrated ML models for **audience segmentation**
+- 🔍 Visualised customer behaviour trends in real time
+- 🎯 Enabled data-driven decisions for marketing teams
 
 ![Python](https://img.shields.io/badge/Python-0f3d3d?style=flat-square&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-1a5c5c?style=flat-square)
+![Analytics](https://img.shields.io/badge/Marketing%20Analytics-2DD4BF?style=flat-square&logo=google-analytics&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +119,7 @@
 > *Solar Panels & Peltier Modules*
 
 - ☀️ Renewable energy-powered **water extraction prototype**
-- ⚡ Optimized energy efficiency & thermal regulation
+- ⚡ Optimised energy efficiency & thermal regulation
 - 👥 Cross-functional team collaboration
 - 🏆 **Won Best Project of the Year 2024**
 
@@ -112,10 +145,10 @@
 </td>
 <td width="50%" valign="top">
 
-### 🛡  DeployIQ
+### 🛡 DeployIQ
 > *ML Deployment Risk Validator*
 
-- 🤖 Analyzes prediction CSV files automatically
+- 🤖 Analyses prediction CSV files automatically
 - 📋 Generates deployment risk reports
 - 🔍 Model validation & reliability checking
 - 🚀 Aimed at production-ready AI systems
@@ -157,13 +190,13 @@
 ║     └─ Leading 35+ members | Vision: "Empowering Students"      ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  💡 Innovative Member – Shifa Computing Society (2023–Present)   ║
-║     └─ Organized 3 tech events | ↑30% participation             ║
+║     └─ Organised 3 tech events | ↑30% participation             ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  🎓 Campus Ambassador – LUMUN'22 @ LUMS (2025)                   ║
 ║     └─ Reached 500+ students via social media campaigns         ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  🌍 Student Ambassador – Vision-Building Future (2025)           ║
-║     └─ Leadership, communication & organizational skills        ║
+║     └─ Leadership, communication & organisational skills        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -236,7 +269,6 @@
 
 ---
 
-
 ## 🐍 Pac-Man Contribution Graph
 
 <div align="center">
@@ -269,9 +301,8 @@
 
 <br/><br/>
 
-> *"Testing code today, engineering the future of AI tomorrow. 😊
-> — Noor Fatima | QA Engineer & CS Student."* 
- 
+> *"Harnessing the power of AI to build smarter marketing strategies and engineer the future of digital growth. 😊
+> — Noor Fatima | AI Marketing Consultant & CS Student."*
 
 </div>
 
