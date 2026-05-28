@@ -9,7 +9,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=noor-fatimah&label=Profile+Views&color=0f3d3d&style=for-the-badge&logo=eye" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/noor-fatimah?label=Followers&style=for-the-badge&color=1a5c5c&logo=github" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20Marketing%20Consulting-2DD4BF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-1a5c5c?style=for-the-badge&logo=github&logoColor=white" alt="follow"/>
 </p>
 
 </div>
