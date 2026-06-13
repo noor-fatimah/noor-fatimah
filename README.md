@@ -29,7 +29,7 @@
 - 📊 Exploring **AI-Powered Marketing Automation, Customer Analytics & Growth Hacking**
 - 🌱 Currently deepening expertise in **AI Marketing Tools, Prompt Engineering & Data Analytics**
 - 💡 Advocate for **tech education, digital transformation & AI-driven marketing**
-- 📬 Reach me at: **fatimamunsaf786@gmail.com**
+
 
 ---
 
