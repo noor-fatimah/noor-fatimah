@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2626,40:0f3d3d,100:1a5c5c&height=210&section=header&text=Noor%20Fatima&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Marketing%20Consultant%20%7C%20AI%20Specialist%20%7C%20CS%20Student%20%7C%20Python%20Developer&descAlignY=56&descSize=19&descColor=b0c4c4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2626,40:0f3d3d,100:1a5c5c&height=210&section=header&text=Noor%20Fatima&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Marketing%20Consultant%20%7C%20AI%20Specialist%20%7C%20CS%20Student%20%7C%20Generative%20AI&descAlignY=56&descSize=19&descColor=b0c4c4"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=760&height=55&lines=🤖+AI+Marketing+Consultant+%26+Strategist;📊+Data-Driven+Marketing+%7C+AI-Powered+Campaigns;🎓+CS+Undergraduate+%40+STMU;🏆+Best+Project+of+the+Year+2024;👑+President+%7C+CS+Innovators+Club;🚀+Bridging+Artificial+Intelligence+%26+Marketing" alt="Typing SVG" />
